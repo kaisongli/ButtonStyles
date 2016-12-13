@@ -7,4 +7,3 @@
 [Image](https://github.com/kaisongli/ButtonStyles/blob/master/screenshots/2016-12-12%2008:59:04%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 [Image](https://github.com/kaisongli/ButtonStyles/blob/master/screenshots/2016-12-12%2008:59:13%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 [Image](https://github.com/kaisongli/ButtonStyles/blob/master/screenshots/2016-12-12%2008:59:28%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
-
