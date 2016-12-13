@@ -28,7 +28,6 @@
         android:id="@+id/facebook"
         android:layout_weight="1"
         app:roundedCorner="true"
-
         app:iconSize="30dp"
         app:roundedCornerRadius="75dp"
         android:layout_alignParentBottom="true"
